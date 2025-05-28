@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-image {
+    background-image: url("https://img.freepik.com/free-photo/top-view-workspace-with-notebook-succulent-plant_23-2148430820.jpg?t=st=1720179168~exp=1720182768~hmac=cdc395f50e3d38fd6ee4c330449b2718786c63e884008c0b944b9ba4ca52f7d5&w=826");
+    height: 100vh;
+    image-size: cover;
+    color: white;
+}
+
+.hello {
+    text-align: center;
+
+}
+
+.heading {
+    font-family: "Roboto";
+    font-size: 55px;
+}
+
+.paragraph {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.text-align {
+    text-align: center;
+
+}
+
+.size {
+    font-family: "Roboto";
+    font-size: 20px;
+    background-color: orange;
+    border-width: 2px;
+}
+
+.notice {
+    text-decoration: underline;
+}
